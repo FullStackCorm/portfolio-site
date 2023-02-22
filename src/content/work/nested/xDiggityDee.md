@@ -10,4 +10,4 @@ tags:
   - Branding
 ---
 
-I designed and developed a portfolio site for producer xDiggityDee, which includes a show schedule and his published tracks. <a href='https://xdiggitydee-port.netlify.app/index.html'>Take a look (or listen)!</a>
+I designed and developed a portfolio site for producer xDiggityDee, which includes a show schedule and his published tracks. <a href='https://xdiggitydee.netlify.app/'>Take a look (or listen)!</a>
