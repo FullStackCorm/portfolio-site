@@ -10,13 +10,8 @@ tags:
   - Dev
 ---
 
-## Level-two heading
-
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
-
 I designed and created a website for a J&H Vanity Hair Salon, using HTML5, CSS3, and JavaScript. <a href='https://jhvanity.netlify.app/'>Take a look!</a>
 
-#### Level-four heading
 Users can:
 
 - Create an account to book or cancel appointments
